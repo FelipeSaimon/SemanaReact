@@ -39,6 +39,13 @@ span{
     height: 40px;
     font-size: 20px;
     background-color: #357AFF;
+    color: #fff;
     border: 0;
     border-radius: 7px;
+}
+
+h2{
+    margin-top: 28px;
+    color: #121212;
+    font-weight: 700;
 }
